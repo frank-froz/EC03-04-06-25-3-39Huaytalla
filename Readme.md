@@ -12,7 +12,6 @@ Una mini SPA desarrollada en React 19 utilizando Vite, que incluye navegación p
 - **React Router DOM**
 - **React Toastify**
 - **React Loading Skeleton**
-- **@fontsource-variable/open-sans** y **roboto**
 
 ---
 
